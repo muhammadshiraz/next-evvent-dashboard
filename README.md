@@ -38,9 +38,7 @@ To get started with this project, follow these steps:
    cd next-evvent-dashboard
 
 2. **Install dependencies:**
-
-First, run the development server:
-
+3. 
 ```bash
 npm run dev
 # or
