@@ -1,6 +1,6 @@
 # Next Evvent Dashboard
 
-Next Evvent Dashboard is a web application built using Next.js, React.js, and Tailwind CSS. It provides a user-friendly dashboard with various widgets and interactive components.
+Next Event Dashboard is a web application built using Next.js, React.js, and Tailwind CSS. It provides a user-friendly dashboard with various widgets and interactive components.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -37,7 +37,7 @@ To get started with this project, follow these steps:
    git clone https://github.com/muhammadshiraz/next-evvent-dashboard.git
    cd next-evvent-dashboard
 
-## Getting Started
+2. **Install dependencies:**
 
 First, run the development server:
 
